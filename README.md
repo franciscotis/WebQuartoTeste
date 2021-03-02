@@ -60,19 +60,19 @@ Agora só navegar :grin:
 # Imagens do projeto:
 
 <p align="center">
-    <img src="https://ibb.co/Y7dN7Qp"/>
+    <img src="https://i.ibb.co/kgDGgBQ/2021-03-01-23-31-40-localhost-979d81ba7a41.png"/>
 </p>
 
 <p align="center">
-    <img src="https://ibb.co/dtRLN6g"/>
+    <img src="https://i.ibb.co/1MkdCK6/2021-03-01-23-31-48-localhost-f118f7c35288.png"/>
 </p>
 
 <p align="center">
-    <img src="https://ibb.co/QKB3c5w">
+    <img src="https://i.ibb.co/yQTcR3j/2021-03-01-23-31-55-localhost-a88c63a909c4.png">
 </p>
 
 <p align="center">
-    <img src="https://ibb.co/q0tmHLL">
+    <img src="https://i.ibb.co/jVc3C99/2021-03-01-23-31-32-localhost-8347c9e37afa.png">
 </p>
 
 
